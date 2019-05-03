@@ -1,17 +1,3 @@
-food-diary
-==========
-
-This application integrates an authentication with Github. You first need
- to create an OAuth application on the Github website : https://github.com/settings/applications/new.
- 
- ![Creation OAuth app](https://cloud.githubusercontent.com/assets/667519/25222203/1d9ad858-25b8-11e7-8a8c-7980a53c971f.png)
-
- 
- ![OAuth app created](https://cloud.githubusercontent.com/assets/667519/25222188/08488aae-25b8-11e7-8f5e-b240b28c46ab.png)
- 
- Once you created the OAuth application, you need to get the `client ID` and
- `client secret` to put those information in the `app/config/parameters.yml` file.
- 
 Installation
 ============
  
